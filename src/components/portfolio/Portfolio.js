@@ -49,7 +49,6 @@ export default class Header extends Component {
               />
             </a>
           </div>
-          {/* end folio-item */}
           <div className='column folio-item'>
             <a
               href='https://www.youtube.com/watch?v=ZJO3u2me-2o'
